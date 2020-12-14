@@ -1,5 +1,6 @@
  # Instagram Landing Page
 
+![Landing Page](https://github.com/joao-lucasilva/Instagram-Landing-Page/blob/master/img/screenshot1.JPG)
 
 Tabela de conteúdos
 =================
@@ -11,13 +12,13 @@ Tabela de conteúdos
 
 Recriação da Landing Page do Instagram utilizando FlexBox e Media Query para tornar a página responsiva 
 
-
+![Landing Page Mobile](https://github.com/joao-lucasilva/Instagram-Landing-Page/blob/master/img/screenshot2.JPG)
 
 ## Tecnologias
 Neste projeto foi utilizado:
-	 -  HTML5;
-	 -  CSS3;
-	 -  Gerador de Relatórios Ireport.
+ -  HTML5;
+ -  CSS3;
+
 ## Autor
 Desenvolvido por João Lucas da Silva.
 Entre em contato comigo:
