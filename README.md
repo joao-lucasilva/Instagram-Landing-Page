@@ -14,6 +14,8 @@ Recriação da Landing Page do Instagram utilizando FlexBox e Media Query para t
 
 ![Landing Page Mobile](https://github.com/joao-lucasilva/Instagram-Landing-Page/blob/master/img/screenshot2.JPG)
 
+Pode acessar este projeto aqui: https://joao-lucasilva.github.io/Instagram-Landing-Page/
+
 ## Tecnologias
 Neste projeto foi utilizado:
  -  HTML5;
